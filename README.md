@@ -7,13 +7,13 @@ se logro corregir el error que presentaba al momento de iniciar el servidor con 
 se creo la base de datos con exito 
 implemente microservicio para interactuar con la base de datos 
 
-http://127.0.0.1:8000/api/v1/Autor
-http://127.0.0.1:8000/api/v1/Autor?id[eq]=1
-http://127.0.0.1:8000/api/v1/Cliente
-http://127.0.0.1:8000/api/v1/Cliente?id[eq]=1
-http://127.0.0.1:8000/api/v1/Libro
-http://127.0.0.1:8000/api/v1/Libro?id[eq]=1
-http://127.0.0.1:8000/api/v1/Prestamos
+http://127.0.0.1:8000/api/v1/Autor<br>
+http://127.0.0.1:8000/api/v1/Autor?id[eq]=1<br>
+http://127.0.0.1:8000/api/v1/Cliente<br>
+http://127.0.0.1:8000/api/v1/Cliente?id[eq]=1<br>
+http://127.0.0.1:8000/api/v1/Libro<br>
+http://127.0.0.1:8000/api/v1/Libro?id[eq]=1<br>
+http://127.0.0.1:8000/api/v1/Prestamos<br>
 http://127.0.0.1:8000/api/v1/Prestamos?id[eq]=1
 
 se implementaron condiciones para las diferentes busquedas mediante GET
